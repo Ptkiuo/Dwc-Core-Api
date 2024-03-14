@@ -4,7 +4,7 @@ plugins {
 }
 
 group = 'com.ptk671'
-version = '1.0-SNAPSHOT'
+version = 'build_0314'
 
 jar {
     manifest {
